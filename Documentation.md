@@ -1,5 +1,4 @@
- 
-```markdown
+
 # Advanced BMI Calculator Documentation
 
 The Advanced BMI Calculator is a web-based application that calculates Body Mass Index (BMI) with enhanced accuracy by considering additional factors such as muscle mass, body composition, and waist-to-hip ratio. This documentation provides an overview of the project, installation instructions, usage guidelines, contributing information, and license details.
@@ -78,10 +77,10 @@ Contributions to the Advanced BMI Calculator project are welcome! If you'd like 
 
 The Advanced BMI Calculator project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project, but please provide appropriate attribution and include the original license in your distribution.
 
-You can find the full license in the [LICENSE](./LICENSE) file.
 
 
-![BMI Calculator Screenshot](./screenshot.png)
+
+![BMI Calculator Screenshot](screenshot.png)
 
 
 ---
