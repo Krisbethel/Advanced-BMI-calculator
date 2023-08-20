@@ -77,7 +77,7 @@ An Advanced BMI Calculator that takes into consideration additional factors such
   
   
   
- ![BMI Calculator Screenshot](./screenshot.jpg) 
+ ![BMI Calculator Screenshot](./Screenshot.jpg) 
   
   
  --- 
